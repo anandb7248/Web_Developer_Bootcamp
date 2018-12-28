@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register</title>
+</head>
+<body>
+	<h1>Register</h1>
+
+	<form>
+		<label for="firstName">First Name: </label>
+		<input type="text" name="firstName" id="firstName" placeholder="John" required="">
+
+		<label for="lastName">Last Name: </label>
+		<input type="text" name="lastName" id="lastName" placeholder="Smith" required>
+
+		<div>
+			<label for="male">Male</label>
+			<input type="radio" name="gender" id="male" value="male">
+
+			<label for="female">Female</label>
+			<input type="radio" name="gender" id="female" value="female">
+		</div>
+
+		<label for="email">Email: </label>
+		<input type="email" name="email" id="email" placeholder="your email" required>
+
+		<label for="password">Password:</label>
+		<input type="password" pattern=".{8,}" name="password" id="password" required placeholder="your password" required title="Password must be at least 8 characters">
+
+		<div>
+			<label for="bday">Birthday: </label>
+			<select name="month">
+				<option>January</option>
+				<option>February</option>
+			</select>
+			<select name="day">
+				<option>1</option>
+				<option>2</option>
+			</select>
+			<select name="year">
+				<option>1994</option>
+				<option>1993</option>
+			</select>
+		</div>
+		<div>
+			<label>I agree to the terms and conditions</label>
+			<input type="checkbox" name="terms" required>
+		</div>
+
+		<button>Submit</button>
+	</form>
+</body>
+</html>
