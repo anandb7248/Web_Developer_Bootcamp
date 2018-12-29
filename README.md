@@ -3,6 +3,13 @@
 Learning web dev by taking The Web Developer Bootcamp course on Udemy by Colt Steele.
 https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview
 
+## 6: Intermediate CSS
+<img width="518" alt="screen shot 2018-12-28 at 11 03 57 pm" src="https://user-images.githubusercontent.com/19628705/50535154-b5856c80-0afb-11e9-84af-402fef64c18c.png">
+
+<img width="628" alt="screen shot 2018-12-28 at 11 26 11 pm" src="https://user-images.githubusercontent.com/19628705/50535155-b8805d00-0afb-11e9-9a1f-2cfba779428f.png">
+
+<img width="822" alt="screen shot 2018-12-28 at 11 49 07 pm" src="https://user-images.githubusercontent.com/19628705/50535159-bfa76b00-0afb-11e9-90bf-8f1c76608b7f.png">
+
 ## 5: Intro to CSS
 <img width="1440" alt="screen shot 2018-12-28 at 12 45 33 pm" src="https://user-images.githubusercontent.com/19628705/50527679-b9cf6c80-0a9e-11e9-968c-35e3f8decda4.png">
 
