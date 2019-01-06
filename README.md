@@ -30,17 +30,17 @@ https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview
 
 ## Useful Resources
 * Bootstrap
-** Popular open-source UI toolkit
-** https://getbootstrap.com/
+  * Popular open-source UI toolkit
+  * https://getbootstrap.com/
 
 * Google Fonts
-** Access to a variety of fonts
-** https://fonts.google.com/
+  * Access to a variety of fonts
+  * https://fonts.google.com/
 
 * FontAwesome
-** Access to a variety of icons
-** https://fontawesome.com/
+  * Access to a variety of icons
+  * https://fontawesome.com/
 
 * Unsplash
-** Access to a variety of HD free photos
-** https://unsplash.com/
+  * Access to a variety of HD free photos
+  * https://unsplash.com/
