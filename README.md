@@ -3,6 +3,11 @@
 Learning web dev by taking The Web Developer Bootcamp course on Udemy by Colt Steele.
 https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview
 
+## 7: Boostrap 3
+<img width="1440" alt="screen shot 2019-01-05 at 9 23 43 pm" src="https://user-images.githubusercontent.com/19628705/50732797-d458b400-1136-11e9-8c0b-0d7dfee089c0.png">
+
+<img width="1439" alt="screen shot 2019-01-05 at 10 00 11 pm" src="https://user-images.githubusercontent.com/19628705/50732799-d6bb0e00-1136-11e9-8398-0bf3aea7fe69.png">
+
 ## 6: Intermediate CSS
 <img width="518" alt="screen shot 2018-12-28 at 11 03 57 pm" src="https://user-images.githubusercontent.com/19628705/50535154-b5856c80-0afb-11e9-84af-402fef64c18c.png">
 
@@ -22,3 +27,20 @@ https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview
 <img width="399" alt="screen shot 2018-12-28 at 11 04 30 am" src="https://user-images.githubusercontent.com/19628705/50525506-a3221900-0a90-11e9-995c-0dada652b2c3.png">
 
 <img width="778" alt="screen shot 2018-12-28 at 11 04 48 am" src="https://user-images.githubusercontent.com/19628705/50525510-aa492700-0a90-11e9-929b-7c1c5e28e77c.png">
+
+## Useful Resources
+* Bootstrap
+  * Popular open-source UI toolkit
+  * https://getbootstrap.com/
+
+* Google Fonts
+  * Access to a variety of fonts
+  * https://fonts.google.com/
+
+* FontAwesome
+  * Access to a variety of icons
+  * https://fontawesome.com/
+
+* Unsplash
+  * Access to a variety of HD free photos
+  * https://unsplash.com/
