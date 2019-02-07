@@ -3,6 +3,9 @@
 Learning web dev by taking The Web Developer Bootcamp course on Udemy by Colt Steele.
 https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview
 
+## 9: JavaScript
+<img width="170" alt="screen shot 2019-02-06 at 5 44 42 pm" src="https://user-images.githubusercontent.com/19628705/52385541-edef6300-2a36-11e9-8fd3-df56ca78d192.png">
+
 ## 8: Boostrap 4
 <img width="1440" alt="screen shot 2019-01-14 at 4 51 57 pm" src="https://user-images.githubusercontent.com/19628705/52181724-1c0c4300-27aa-11e9-89e5-76c30df19935.png">
 
